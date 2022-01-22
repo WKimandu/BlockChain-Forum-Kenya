@@ -1,5 +1,5 @@
 # BlockChain-Forum-Kenya
-Hi, I’m @WKimandu William Kimandu
+Hi, I’m William Kimandu
 Readme file for the GITHUB repository
 https://github.com/WKimandu/BlockChain-Forum-Kenya 
 This repository contains information on reaching me, what I’m interested in, and what I’m currently learning. I am looking to collaborate on projects related to these topics.
